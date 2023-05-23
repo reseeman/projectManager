@@ -1,0 +1,472 @@
+D:\Project Manager\bin\Debug\Project Manager.exe
+D:\Project Manager\bin\Debug\Project Manager.pdb
+D:\Project Manager\bin\Debug\EntityFramework.dll
+D:\Project Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project Manager\bin\Debug\EntityFramework.xml
+D:\Project Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project Manager\bin\Debug\ru\EntityFramework.resources.dll
+D:\Project Manager\obj\Debug\App.g.cs
+D:\Project Manager\obj\Debug\Project Manager_Content.g.cs
+D:\Project Manager\obj\Debug\Project Manager_MarkupCompile.cache
+D:\Project Manager\obj\Debug\Project Manager_MarkupCompile.lref
+D:\Project Manager\obj\Debug\App.baml
+D:\Project Manager\obj\Debug\Project Manager.g.resources
+D:\Project Manager\obj\Debug\Project_Manager.Properties.Resources.resources
+D:\Project Manager\obj\Debug\Project Manager.csproj.GenerateResource.cache
+D:\Project Manager\obj\Debug\Project Manager.csproj.CoreCompileInputs.cache
+D:\Project Manager\obj\Debug\Project Manager.csproj.CopyComplete
+D:\Project Manager\obj\Debug\Project Manager.exe
+D:\Project Manager\obj\Debug\Project Manager.pdb
+D:\Project Manager\bin\Debug\Project Manager.exe.config
+D:\Project Manager\obj\Debug\windowProjects.g.cs
+D:\Project Manager\obj\Debug\windowProjects.baml
+D:\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Project Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Project Manager\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Project Manager\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Project Manager\obj\Debug\windowAddProject.g.cs
+D:\Project Manager\obj\Debug\windowAddProject.baml
+D:\Project Manager\obj\Debug\windowTasks.g.cs
+D:\Project Manager\obj\Debug\windowTasks.baml
+D:\Project Manager\obj\Debug\windowAddTask.g.cs
+D:\Project Manager\obj\Debug\windowAddTask.baml
+D:\Project Manager\obj\Debug\windowMain.g.cs
+D:\Project Manager\obj\Debug\windowMain.baml
+D:\Project Manager\obj\Debug\Project Manager.csprojAssemblyReference.cache
+D:\Project Manager\bin\Debug\ClosedXML.dll
+D:\Project Manager\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Project Manager\bin\Debug\ExcelNumberFormat.dll
+D:\Project Manager\bin\Debug\System.IO.Packaging.dll
+D:\Project Manager\bin\Debug\ClosedXML.pdb
+D:\Project Manager\bin\Debug\ClosedXML.xml
+D:\Project Manager\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Project Manager\bin\Debug\ExcelNumberFormat.xml
+D:\Учёба\Project Manager\bin\Debug\Project Manager.exe.config
+D:\Учёба\Project Manager\bin\Debug\Project Manager.exe
+D:\Учёба\Project Manager\bin\Debug\Project Manager.pdb
+D:\Учёба\Project Manager\bin\Debug\ClosedXML.dll
+D:\Учёба\Project Manager\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Учёба\Project Manager\bin\Debug\EntityFramework.dll
+D:\Учёба\Project Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\Project Manager\bin\Debug\ExcelNumberFormat.dll
+D:\Учёба\Project Manager\bin\Debug\System.IO.Packaging.dll
+D:\Учёба\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Учёба\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Учёба\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Учёба\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Учёба\Project Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Учёба\Project Manager\bin\Debug\ClosedXML.pdb
+D:\Учёба\Project Manager\bin\Debug\ClosedXML.xml
+D:\Учёба\Project Manager\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Учёба\Project Manager\bin\Debug\EntityFramework.xml
+D:\Учёба\Project Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\Project Manager\bin\Debug\ExcelNumberFormat.xml
+D:\Учёба\Project Manager\bin\Debug\ru\EntityFramework.resources.dll
+D:\Учёба\Project Manager\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Учёба\Project Manager\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Учёба\Project Manager\obj\Debug\Project Manager.csprojAssemblyReference.cache
+D:\Учёба\Project Manager\obj\Debug\windowMain.g.cs
+D:\Учёба\Project Manager\obj\Debug\windowAddProject.g.cs
+D:\Учёба\Project Manager\obj\Debug\windowAddTask.g.cs
+D:\Учёба\Project Manager\obj\Debug\windowProjects.g.cs
+D:\Учёба\Project Manager\obj\Debug\windowTasks.g.cs
+D:\Учёба\Project Manager\obj\Debug\App.g.cs
+D:\Учёба\Project Manager\obj\Debug\Project Manager_Content.g.cs
+D:\Учёба\Project Manager\obj\Debug\Project Manager_MarkupCompile.cache
+D:\Учёба\Project Manager\obj\Debug\Project Manager_MarkupCompile.lref
+D:\Учёба\Project Manager\obj\Debug\App.baml
+D:\Учёба\Project Manager\obj\Debug\windowMain.baml
+D:\Учёба\Project Manager\obj\Debug\windowAddProject.baml
+D:\Учёба\Project Manager\obj\Debug\windowAddTask.baml
+D:\Учёба\Project Manager\obj\Debug\windowProjects.baml
+D:\Учёба\Project Manager\obj\Debug\windowTasks.baml
+D:\Учёба\Project Manager\obj\Debug\Project Manager.g.resources
+D:\Учёба\Project Manager\obj\Debug\Project_Manager.Properties.Resources.resources
+D:\Учёба\Project Manager\obj\Debug\Project Manager.csproj.GenerateResource.cache
+D:\Учёба\Project Manager\obj\Debug\Project Manager.csproj.CoreCompileInputs.cache
+D:\Учёба\Project Manager\obj\Debug\Project Manager.csproj.CopyComplete
+D:\Учёба\Project Manager\obj\Debug\Project Manager.exe
+D:\Учёба\Project Manager\obj\Debug\Project Manager.pdb
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\Project Manager.exe.config
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\Project Manager.exe
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\Project Manager.pdb
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ClosedXML.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\System.IO.Packaging.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ClosedXML.pdb
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ClosedXML.xml
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowMain.g.cs
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowAddProject.g.cs
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowAddTask.g.cs
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowProjects.g.cs
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowTasks.g.cs
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager_Content.g.cs
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\App.baml
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowMain.baml
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowAddProject.baml
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowAddTask.baml
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowProjects.baml
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\windowTasks.baml
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager.g.resources
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project_Manager.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager.csproj.CopyComplete
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager.exe
+C:\Users\Администратор\Desktop\Project Manager\obj\Debug\Project Manager.pdb
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\Project Manager.exe.config
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\Project Manager.exe
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\Project Manager.pdb
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ClosedXML.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\EntityFramework.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ExcelNumberFormat.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\System.IO.Packaging.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ClosedXML.pdb
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ClosedXML.xml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\EntityFramework.xml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ExcelNumberFormat.xml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager.csproj.AssemblyReference.cache
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowMain.g.cs
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowAddProject.g.cs
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowAddTask.g.cs
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowProjects.g.cs
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowTasks.g.cs
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\App.g.cs
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager_Content.g.cs
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager_MarkupCompile.cache
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager_MarkupCompile.lref
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\App.baml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowMain.baml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowAddProject.baml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowAddTask.baml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowProjects.baml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\windowTasks.baml
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager.g.resources
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project_Manager.Properties.Resources.resources
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager.csproj.GenerateResource.cache
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager.csproj.CoreCompileInputs.cache
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager.csproj.CopyComplete
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager.exe
+C:\Users\daola\Desktop\sharaga\4Курс\Project Manager - Copy\obj\Debug\Project Manager.pdb
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\Project Manager.exe.config
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\Project Manager.exe
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\Project Manager.pdb
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ClosedXML.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\DocumentFormat.OpenXml.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\EntityFramework.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\EntityFramework.SqlServer.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ExcelNumberFormat.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\System.IO.Packaging.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ClosedXML.pdb
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ClosedXML.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\DocumentFormat.OpenXml.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\EntityFramework.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\EntityFramework.SqlServer.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ExcelNumberFormat.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ru\EntityFramework.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.csproj.AssemblyReference.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.csproj.SuggestedBindingRedirects.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowMain.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowAddProject.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowAddTask.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowProjects.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowTasks.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\App.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager_Content.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager_MarkupCompile.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager_MarkupCompile.lref
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\App.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowMain.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowAddProject.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowAddTask.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowProjects.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\windowTasks.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.g.resources
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project_Manager.Properties.Resources.resources
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.csproj.GenerateResource.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.csproj.CoreCompileInputs.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.csproj.CopyComplete
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.exe
+G:\раб стол\sharaga\4Курс\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.pdb
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\Project Manager.exe.config
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\Project Manager.exe
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\Project Manager.pdb
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ClosedXML.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\DocumentFormat.OpenXml.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\EntityFramework.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ExcelNumberFormat.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\System.IO.Packaging.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ClosedXML.pdb
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ClosedXML.xml
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\DocumentFormat.OpenXml.xml
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\EntityFramework.xml
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ExcelNumberFormat.xml
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ru\EntityFramework.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowMain.g.cs
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowAddProject.g.cs
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowAddTask.g.cs
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowProjects.g.cs
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\App.g.cs
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager_Content.g.cs
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager_MarkupCompile.cache
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager_MarkupCompile.lref
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\App.baml
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowMain.baml
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowAddProject.baml
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowAddTask.baml
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowProjects.baml
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.g.resources
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project_Manager.Properties.Resources.resources
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.csproj.GenerateResource.cache
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.csproj.CoreCompileInputs.cache
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.csproj.CopyComplete
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.exe
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\Project Manager.pdb
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowInfo.g.cs
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowInfo.baml
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowProjectsAdmin.g.cs
+D:\kursovaya2022 — копия\Project Manager\obj\Debug\windowProjectsAdmin.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Project Manager.exe.config
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Project Manager.exe
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Project Manager.pdb
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ClosedXML.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\DocumentFormat.OpenXml.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\EntityFramework.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\EntityFramework.SqlServer.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ExcelNumberFormat.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\System.IO.Packaging.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ClosedXML.pdb
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ClosedXML.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\DocumentFormat.OpenXml.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\EntityFramework.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\EntityFramework.SqlServer.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ExcelNumberFormat.xml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ru\EntityFramework.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.AssemblyReference.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.SuggestedBindingRedirects.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowInfo.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowMain.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowAddProject.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowAddTask.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowProjects.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowProjectsAdmin.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\App.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager_Content.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager_MarkupCompile.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager_MarkupCompile.lref
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\App.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowInfo.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowMain.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowAddProject.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowAddTask.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowProjects.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowProjectsAdmin.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.g.resources
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project_Manager.Properties.Resources.resources
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.GenerateResource.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.CoreCompileInputs.cache
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.CopyComplete
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.exe
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.pdb
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowWorkers.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowWorkers.baml
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowInfoWorkers.g.cs
+G:\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowInfoWorkers.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Project Manager.exe.config
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Project Manager.exe
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Project Manager.pdb
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ClosedXML.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\DocumentFormat.OpenXml.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\EntityFramework.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\EntityFramework.SqlServer.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ExcelNumberFormat.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\System.IO.Packaging.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ClosedXML.pdb
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ClosedXML.xml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\DocumentFormat.OpenXml.xml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\EntityFramework.xml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\EntityFramework.SqlServer.xml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ExcelNumberFormat.xml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ru\EntityFramework.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.AssemblyReference.cache
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.SuggestedBindingRedirects.cache
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowInfo.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowInfoWorkers.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowMain.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowAddProject.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowAddTask.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowProjects.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowProjectsAdmin.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowWorkers.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\App.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager_Content.g.cs
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager_MarkupCompile.cache
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager_MarkupCompile.lref
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\App.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowInfo.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowInfoWorkers.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowMain.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowAddProject.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowAddTask.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowProjects.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowProjectsAdmin.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\windowWorkers.baml
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.g.resources
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project_Manager.Properties.Resources.resources
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.GenerateResource.cache
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.CoreCompileInputs.cache
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.csproj.CopyComplete
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.exe
+G:\Archive\раб стол\sharaga\4Курс\kursovaya2022v3\Project Manager\obj\Debug\Project Manager.pdb

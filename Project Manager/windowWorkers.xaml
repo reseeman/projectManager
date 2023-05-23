@@ -1,0 +1,48 @@
+﻿<Window x:Class="Project_Manager.windowWorkers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Manager"
+        mc:Ignorable="d"
+        Title="windowWorkers" Height="350" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="20*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="Работники" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="SemiBold"/>
+        <DataGrid x:Name="dataGrid" AutoGenerateColumns="False" CanUserAddRows="False" Grid.Row="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding nameWorker}" Header="ФИО"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="25">
+                                <Button Margin="0" Width="100" Name="BtnInfo" Click="BtnInfo_Click" Content="Подробнее" Height="25"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="2">
+            <StackPanel.Resources>
+                <Style TargetType="TextBlock">
+                    <Setter Property="FontSize" Value="12"/>
+                </Style>
+                <Style TargetType="Image">
+                    <Setter Property="Width" Value="20"/>
+                </Style>
+            </StackPanel.Resources>
+            <Button x:Name="buttonAddProject">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="img/add.png"/>
+                    <TextBlock Text="Добавить"/>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
